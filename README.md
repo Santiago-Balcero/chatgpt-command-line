@@ -38,6 +38,14 @@ This is a Poetry project for a command line app to interact with ChatGPT public 
   ```
   chatgpt --install-completion
   ```
+- In a terminal you can check "chatgpt" app wass successfully installed with:
+  ```
+  chatgpt --help
+  ```
+- To run the app from a terminal just use:
+  ```
+  chatgpt
+  ```
   
 
 ### Documentation
